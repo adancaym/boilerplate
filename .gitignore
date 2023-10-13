@@ -52,4 +52,4 @@ npm-debug.*
 *.orig.*
 web-build/
 cache/
-
+apps/customer/mobile-e2e/artifacts
